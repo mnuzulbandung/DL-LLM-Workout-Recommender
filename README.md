@@ -1,4 +1,6 @@
-# **DL-LLM-Workout Recommender** 💪🤖  
+# **DL Large Language Model**
+# **Workout Recommendation**
+
 Promoting a healthier lifestyle with personalized workout recommendations, smart scheduling, and fitness guidance.
 
 <div align="center">
