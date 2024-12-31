@@ -57,7 +57,7 @@ Here are some ways to interact with **AI-Bot**:
 
 ---
 
-## **Future Enhancements 🌱**  
+## **Future Enhancements**  
 
 - **Fitness Progress Tracking**: Add features to log and monitor workout performance.  
 - **Nutritional Guidance**: Provide meal plans alongside exercise recommendations.  
