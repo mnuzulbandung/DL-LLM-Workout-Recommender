@@ -5,7 +5,7 @@ Promoting a healthier lifestyle with personalized workout recommendations, smart
 
 ---
 
-## **Introduction 🌟**  
+## **Introduction**
 
 Maintaining a healthy lifestyle in Indonesia faces several challenges:  
 1. **Low Physical Activity**: A sedentary lifestyle is prevalent, with many lacking regular exercise routines.  
@@ -16,7 +16,7 @@ Maintaining a healthy lifestyle in Indonesia faces several challenges:
 
 ---
 
-## **Features 🚀**  
+## **Features**
 
 1. **Interactive Chat**: Communicate with the chatbot to receive fitness advice and workout tips in a user-friendly conversational format.  
 2. **Personalized Recommendations**: Generate exercise plans tailored to your preferences, equipment availability, and fitness level.  
@@ -25,7 +25,7 @@ Maintaining a healthy lifestyle in Indonesia faces several challenges:
 
 ---
 
-## **How to Use 🏋️**  
+## **How to Use**
 
 ### **Step-by-Step Usage**  
 1. **Ask a Question**: Type your workout-related question or request in the chat area.  
@@ -41,7 +41,7 @@ Here are some ways to interact with **AI-Bot**:
 ---
 
 
-## **Technical Overview 🛠️**  
+## **Technical Overview**
 
 ### **Development Process**  
 1. **Chatbot Design**: Leveraged **GPT-4o Mini** for natural language understanding and response generation.  
