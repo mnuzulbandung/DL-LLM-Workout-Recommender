@@ -47,16 +47,6 @@ Here are some ways to interact with **GoGym**:
 
 ---
 
-## **Team Members 👨‍💻**  
-
-| **Name**             | **Role**       | **GitHub**                                         |  
-|----------------------|----------------|---------------------------------------------------|  
-| **Fauzan Azhima**    | Data Analyst   | [GitHub](https://github.com/fauazhima)           |  
-| **Muhammad Nuzul**   | Data Scientist | [GitHub](https://github.com/mnuzulbandung)       |  
-| **Karmenia Lontoh**  | Data Scientist | [GitHub](https://github.com/karenlontoh)         |  
-| **Satrio Tri Nugroho** | Data Engineer | [GitHub](https://github.com/satriotn)            |  
-
----
 
 ## **Technical Overview 🛠️**  
 
