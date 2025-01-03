@@ -64,3 +64,7 @@ Additionally, ChatGPT's free model, while highly capable of generating text-base
 ## **Limitation**  
 
 **Slow Response**: The app takes approximately 8 seconds to generate a response, which may feel a bit slow for users seeking quicker interactions.
+
+---
+
+## **Authors**: Fauzan Azhima, Muhammad Nuzul, Karmenia Lontoh, and Satrio Tri Nugroho
