@@ -5,48 +5,52 @@ Promoting a healthier lifestyle with personalized workout recommendations, smart
 
 ---
 
-## **Introduction**
+## **Background**
 
-Maintaining a healthy lifestyle in Indonesia faces several challenges:  
-1. **Low Physical Activity**: A sedentary lifestyle is prevalent, with many lacking regular exercise routines.  
-2. **High Costs**: Gym memberships are often unaffordable for a large portion of the population.  
-3. **Preventable Diseases**: Chronic illnesses such as diabetes, obesity, and heart disease are on the rise but can be mitigated through regular physical activity.  
+Maintaining a healthy lifestyle in Indonesia comes with several obstacles:
 
-**AI-Bot** provides an accessible and intelligent solution to these problems by empowering users to take control of their fitness goals with a chatbot that offers workout advice, personalized plans, and answers to fitness-related queries.  
+1. **Insufficient Physical Activity**: Many individuals lead sedentary lives and lack consistent exercise habits.
+2. **Financial Barriers**: Gym memberships are often out of reach for a significant portion of the population due to high costs.
+3. **Rising Preventable Diseases**: Chronic conditions like diabetes, obesity, and heart disease are becoming more common but can be reduced through regular exercise.
 
----
+Additionally, ChatGPT's free model, while highly capable of generating text-based responses, has several limitations:
+1. **Inability to Provide Images**: Visual workout exercise demonstrations can not be made, which limits its usefulness for tasks requiring visual guidance.
+2. **Inconsistencies**: Occasional inaccuracies, repetition, or a lack of depth when addressing complex or niche topics.
 
-## **Features**
+**AI-Bot** empowers users to achieve fitness goals with workout advice, personalized plans, and fitness-related answers.
 
-1. **Interactive Chat**: Communicate with the chatbot to receive fitness advice and workout tips in a user-friendly conversational format.  
-2. **Personalized Recommendations**: Generate exercise plans tailored to your preferences, equipment availability, and fitness level.  
-3. **Smart Scheduling**: Plan and track your workouts effectively with reminders and goal-setting assistance.  
-4. **Fitness Q&A**: Get answers to common fitness questions, from exercise techniques to health benefits.
-
+   
 ---
 
 ## **How to Use**
 
-### **Step-by-Step Usage**  
-1. **Ask a Question**: Type your workout-related question or request in the chat area.  
-2. **Submit**: Click the "Submit" button to interact with the chatbot.  
-3. **View Recommendations**: Receive customized workout plans, schedules, or answers based on your query.
-
-### **Example Queries**  
-Here are some ways to interact with **AI-Bot**:  
-- “Provide a training plan for a month!”  
-- “Suggest a 2-week cardio program without equipment.”  
-- “How do I perform barbell squats correctly?”  
+### **Step-by-Step Usage**
+1. **Access the Website**: Open the AI-Bot homepage to begin.
+2. **Enter Your Query**: Input your workout-related question or request in the chat box.
+3. **Send**: Press the "Submit" button to engage with the chatbot.
+4. **Receive Suggestions**: Get tailored workout plans, schedules, or answers based on your input.
 
 ---
+
+## **Sample Questions**
+
+1. Please make a workout schedule three times a week for one month focusing on the upper body.
+2. How can I do a Pull-Up?
+
+
+---
+
 
 
 ## **Technical Overview**
 
 ### **Development Process**  
-1. **Chatbot Design**: Leveraged **GPT-4o Mini** for natural language understanding and response generation.  
-2. **Personalization Algorithm**: Integrated user preference and fitness level data for tailored recommendations.  
-3. **Deployment**: Deployed the chatbot on **Hugging Face Spaces** for an interactive user experience.
+1. The app uses an AI model **GPT-4o Mini** with **Streamlit** and **LangChain** to process the user's query.
+2. The app generates responses based on a list of exercises fetched from a **local API**.
+3. The app stores and displays user queries and AI responses in a **chat-like interface**.
+4. The app displays **images** for exercises when requested.
+5. The app maintains a **conversation history** to provide contextual responses
+6. The app ensures that **off-topic** questions are handled gracefully.
 
 ### **Libraries Used**  
 - Python  
@@ -57,8 +61,6 @@ Here are some ways to interact with **AI-Bot**:
 
 ---
 
-## **Future Enhancements**  
+## **Limitation**  
 
-- **Fitness Progress Tracking**: Add features to log and monitor workout performance.  
-- **Nutritional Guidance**: Provide meal plans alongside exercise recommendations.  
-- **Multi-Language Support**: Expand chatbot usability for non-English speaking users.  
+**Slow Response**: The app takes approximately 8 seconds to generate a response, which may feel a bit slow for users seeking quicker interactions.
