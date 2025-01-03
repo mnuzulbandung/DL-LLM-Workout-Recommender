@@ -40,11 +40,7 @@ Additionally, ChatGPT's free model, while highly capable of generating text-base
 
 ---
 
-
-
-## **Technical Overview**
-
-### **Development Process**  
+## **Technical Overview**  
 1. The app uses an AI model **GPT-4o Mini** with **Streamlit** and **LangChain** to process the user's query.
 2. The app generates responses based on a list of exercises fetched from a **local API** to handle the inconsistency problems.
 3. The app stores and displays user queries and AI responses in a **chat-like interface**.
